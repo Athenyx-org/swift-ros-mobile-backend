@@ -8,6 +8,7 @@ public class RosMobileBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RosMobileBackendApplication.class, args);
-	}
+		System.out.println("running.......");
 
+	}
 }
